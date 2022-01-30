@@ -10,6 +10,6 @@ Un blog increible para el curso de Git an Github de platzi
 * trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * increado con licencia de platzi team
-
+* incluye ejemplos en linx, windows y mac
 
 y como un amable recordatorio **Este readme.md chiste**. Diseñado para el ejemplo. Si llego aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso. 
