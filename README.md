@@ -9,5 +9,7 @@ Un blog increible para el curso de Git an Github de platzi
 * El verdadero amor para las buenas practicas
 * trucos muy locos del profesor
 * Las personalidades multiples de Freddy
+* increado con licencia de platzi team
+
 
 y como un amable recordatorio **Este readme.md chiste**. Diseñado para el ejemplo. Si llego aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso. 
